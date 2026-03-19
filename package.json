@@ -2,7 +2,7 @@
   "name": "meu-checklist-medico",
   "private": true,
   "version": "0.0.0",
-"homepage": "[https://moreiracm.github.io/meu-checklist-medico](https://moreiracm.github.io/meu-checklist-medico)",
+  "homepage": "[https://moreiracm.github.io/meu-checklist-medico](https://moreiracm.github.io/meu-checklist-medico)",
   "type": "module",
   "scripts": {
     "dev": "vite",
